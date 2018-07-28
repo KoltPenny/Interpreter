@@ -1,0 +1,4 @@
+/bison.tab.c
+/bison.tab.h
+/bison.output
+/lex.yy.c
